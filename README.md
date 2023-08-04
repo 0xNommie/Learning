@@ -24,7 +24,7 @@ Community Engagement:
 I invite fellow learners, mentors, and enthusiasts to join me on this journey. I welcome feedback, suggestions, and contributions from the community to enhance the catalog's content and foster a collaborative learning atmosphere.
 
 License:
-To ensure the free exchange of knowledge, I have chosen an open-source license for all code and content within this catalog. The [Insert License Name] will be applied to all my contributions.
+To ensure the free exchange of knowledge, I have chosen an open-source license for all code and content within this catalog. 
 
 Conclusion:
 With an eager heart and a curious mind, I look forward to embarking on this exciting learning journey. Through this catalog, I hope to not only advance my skills and knowledge but also inspire and empower others to embark on their own quests for wisdom and understanding.
